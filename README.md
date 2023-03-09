@@ -1,3 +1,3 @@
 # WordPress
 ## site ecoommerce with wooCommerce
-![alt text](1.png)
+![alt text](images_page/1.png)
